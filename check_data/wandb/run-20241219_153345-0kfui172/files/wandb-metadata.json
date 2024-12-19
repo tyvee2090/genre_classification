@@ -1,0 +1,54 @@
+{
+    "os": "macOS-15.2-x86_64-i386-64bit",
+    "python": "3.12.8",
+    "heartbeatAt": "2024-12-19T22:33:45.378300",
+    "startedAt": "2024-12-19T22:33:45.062062",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/tyvee2090/genre_classification.git",
+        "commit": "50d824387e0499f640915036da4cd4256f2f823c"
+    },
+    "email": "t.g.training@outlook.com",
+    "root": "/Users/ty/data_science/ml_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification",
+    "host": "Tyrones-iMac",
+    "username": "ty",
+    "executable": "/opt/anaconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/python3.12",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3600,
+        "min": 3600,
+        "max": 3600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600,
+            "min": 3600,
+            "max": 3600
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.46913528442383,
+            "used": 10.425399780273438
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

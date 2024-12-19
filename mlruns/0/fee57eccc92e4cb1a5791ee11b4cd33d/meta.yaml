@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ty/data_science/ml_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/fee57eccc92e4cb1a5791ee11b4cd33d/artifacts
+end_time: 1734647248254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fee57eccc92e4cb1a5791ee11b4cd33d
+run_name: omniscient-rat-914
+run_uuid: fee57eccc92e4cb1a5791ee11b4cd33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734647235248
+status: 3
+tags: []
+user_id: ty

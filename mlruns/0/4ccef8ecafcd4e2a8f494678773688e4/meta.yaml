@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ty/data_science/ml_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/4ccef8ecafcd4e2a8f494678773688e4/artifacts
+end_time: 1734647619408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ccef8ecafcd4e2a8f494678773688e4
+run_name: abundant-conch-477
+run_uuid: 4ccef8ecafcd4e2a8f494678773688e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734647604719
+status: 3
+tags: []
+user_id: ty

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ty/data_science/ml_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/2678ee9675a54b0eb39c634e0b85381a/artifacts
+end_time: 1734647347558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2678ee9675a54b0eb39c634e0b85381a
+run_name: abrasive-cub-235
+run_uuid: 2678ee9675a54b0eb39c634e0b85381a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734647300952
+status: 4
+tags: []
+user_id: ty

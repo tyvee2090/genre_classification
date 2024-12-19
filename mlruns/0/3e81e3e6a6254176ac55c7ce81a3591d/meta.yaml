@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ty/data_science/ml_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/3e81e3e6a6254176ac55c7ce81a3591d/artifacts
+end_time: 1734647262424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e81e3e6a6254176ac55c7ce81a3591d
+run_name: amusing-kite-522
+run_uuid: 3e81e3e6a6254176ac55c7ce81a3591d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734647248301
+status: 3
+tags: []
+user_id: ty
